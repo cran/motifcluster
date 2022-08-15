@@ -1,6 +1,6 @@
-3d7e4fa2779d1761ec59e0de8edadaa3 *DESCRIPTION
+eceae044017f2a99b16c3372812b9c70 *DESCRIPTION
 640b3fd1fb266085e743aa16cd22fa60 *NAMESPACE
-d4a75c99e40b67326cfcb5f3beda3e7a *NEWS.md
+9ce8c2f2632f636347a7457ba0e834de *NEWS.md
 13ced548b848a07496e42aa9a442ea88 *R/clustering.R
 f6ef1b1802671616472f8faaeff641d5 *R/indicators.R
 2cb68fe2135dafeaad398d1e702da218 *R/motifadjacency.R
@@ -11,7 +11,7 @@ d86f3a59416f2fe540f25bb95dda1de9 *README.md
 967062433ecbb19f8a6181fedd14dc7d *build/vignette.rds
 22b31f4e0d8c409ed1c4962588911845 *inst/doc/motifcluster_vignette.R
 eb528511e79988035965c6fa45abece7 *inst/doc/motifcluster_vignette.Rmd
-181435bf24b588e15aa0ef23156e6354 *inst/doc/motifcluster_vignette.pdf
+d09d6fe63d86f2604b577f9bcbcd8aff *inst/doc/motifcluster_vignette.pdf
 d5e77cd06079bb0c458d300f93f0a1cc *man/a_b_one.Rd
 087ab3d614d32d8c1e911d7dc3232b92 *man/a_one_b.Rd
 a279f6ada912a45c5159ca45bfaddd56 *man/build_G.Rd
@@ -59,10 +59,11 @@ cb84568c82ae48012d94660b68eb7fc7 *man/run_motif_embedding.Rd
 78558cc87f0f818a406258fb407596f8 *man/sample_dsbm.Rd
 0165ebcdfdff06c6bb9c2efd8ee22b22 *tests/testthat.R
 41868e8d96005118c045dcdb9dc4ae3f *tests/testthat/test_clustering.R
-fc73eefb055fc44c26f685e7147f862a *tests/testthat/test_indicators.R
-8531b0ed43a948f048f158bcc6d2ae81 *tests/testthat/test_motifadjacency.R
-16a04802291ae93e374fdd40dd39c23d *tests/testthat/test_sampling.R
-8cf1de8abad74531e394263482329862 *tests/testthat/test_spectral.R
+3a77822b4fe5d60a6396b7d503aa0d4d *tests/testthat/test_indicators.R
+1fa14a56e1c8249d32d0e1f0a4702ff5 *tests/testthat/test_motifadjacency.R
+f04bdcd4f9877a82843194b954eaa90c *tests/testthat/test_sampling.R
+5b38d66ca6371b295421f62db467088b *tests/testthat/test_spectral.R
 490bd6357e6329c5ea030158d1dfe515 *tests/testthat/test_utils.R
+4f71081bca8108af8c43f41d5f8b8705 *vignettes/auto/refs.el
 eb528511e79988035965c6fa45abece7 *vignettes/motifcluster_vignette.Rmd
 f155c5039dfe35e7448bff8bbd86d702 *vignettes/refs.bib
